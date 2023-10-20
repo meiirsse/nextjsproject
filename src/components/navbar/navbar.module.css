@@ -19,7 +19,7 @@
   .logout {
     padding: 5px;
     border: none;
-    background-color: #53c28b;
+    background-color: rgb(149, 209, 241);
     color: white;
     cursor: pointer;
     border-radius: 3px;
