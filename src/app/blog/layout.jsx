@@ -9,4 +9,4 @@ const BlogLayout = ({ children }) => {
   )
 }
 
-export default Users
+export default BlogLayout
